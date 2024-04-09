@@ -1,4 +1,4 @@
-<h1 align="center"> 🔄 "Recursion" 👑</h1>
+<h1 align="center"> 🔄 "Recursion" 💫</h1>
 
 This program demonstrates several uses of C++ recursion through functions of varying nature.
 
