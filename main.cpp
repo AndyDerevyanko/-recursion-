@@ -1,8 +1,3 @@
-/*                                                   *
- * Name: Andy Derevyanko                             *
- * Class: ICS4U1-04                                  *
- * Topic: Assignment 7 - Recursion                   */
-
 #include <iostream>
 
 using namespace std;
